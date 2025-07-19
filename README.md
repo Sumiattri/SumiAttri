@@ -22,16 +22,23 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumiAttri&show_icons=true&theme=radical" alt="Sumit's github stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumiAttri&theme=radical" alt="sumit-attri" />
-</p>
-<p align="center">
+
+<table>
+  <tr>
+    <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=SumiAttri&show_icons=true&theme=radical&layout=compact" alt="Sumit's github stats" />
+    </td>
+    <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumiAttri&theme=radical&layout=compact"
+    </td>
+    <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiAttri&layout=compact&theme=blueberry&langs_count=8" alt="Top Langs" />
-</p>
+    </td>
+  </tr>
+</table>
+
 
 ### 🌐 Connect with me:
 
