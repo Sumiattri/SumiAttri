@@ -29,6 +29,9 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumiAttri&theme=radical" alt="sumit-attri" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiAttri&layout=compact&theme=blueberry&langs_count=8" alt="Top Langs" />
+</p>
 
 ### 🌐 Connect with me:
 
