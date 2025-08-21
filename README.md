@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sumit-attri&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-attri" />
 </p>
 
-- 🔭 I’m currently working on my own  ** SAAS web app ** 
+- 🔭 I’m currently working on my own  **SAAS web app** 
 - 🌱 I’m currently learning **Node.js and mastering React.js**  
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about **React, Redux, Firebase, Tailwind, API's, RAG systems.**  
