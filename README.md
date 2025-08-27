@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about **React, Redux, Firebase, Tailwind, API's, RAG systems.**  
 - 📫 Reach me at: **sumitattri165@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1rUoINZwM6ge1lEI9MLybmNGvf0HDqN_t/view?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/12Nf40VDlhUstdaFH8489c5qoQ8poDX-J/view?usp=sharing)
 
 ---
 
