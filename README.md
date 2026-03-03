@@ -17,9 +17,9 @@
 
 ### 💡 What I Work With
 
-- **Frontend:** React.js, Redux, TailwindCSS
-- **Backend:** Node.js, Express, tRPC
-- **Database:** PostgreSQL, Prisma, Firebase, Firestore
+- **Frontend:** React.js,Next.js, Redux, TailwindCSS
+- **Backend:** Node.js, Express, tRPC, trigger.dev
+- **Database:** PostgreSQL, Prisma, Firebase, Firestore, Mongodb
 - **AI Systems:** RAG pipelines, API integrations, serverless functions
 - **Infra & Tools:** Git, GitHub, Vercel, Render, TypeScript, Zod
 
